@@ -43,16 +43,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 👤 **Chimwemwe Sinyinza**
 
-- GitHub: [@Chimwemwe-127001](https://github.com/Chimwemwe-127001)
-- Twitter: [@chimwewme](https://twitter.com/chimwewme)
+- GitHub: [@mwanawabangona](https://github.com/mwanawabangona)
 
-👤 **Okpara Tochukwu**
-
-- GitHub: [@xtrahuman](https://github.com/xtrahuman)
-
-👤 **Akinlade Temitope**
-
-- GitHub: [@mckent05](https://github.com/mckent05)
 
 ## 🤝 Contributing
 
